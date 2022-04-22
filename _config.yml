@@ -2,4 +2,4 @@ theme: jekyll-theme-merlot
 title: Canning Season
 show_downloads: false
 github:
-  is_project_page: false
+  repository_url: https://github.com/RaccoonHandsProductions/CanningSeason

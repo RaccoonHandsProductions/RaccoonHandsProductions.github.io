@@ -33,6 +33,6 @@ The game is available for [download here.](https://github.com/RaccoonHandsProduc
 ## Special Thanks
 
 
-- [Minnetrista Museum and Gardens,](https://www.minnetrista.net/) George Buss, and Brett.
+- [Minnetrista Museum and Gardens,](https://www.minnetrista.net/) George Buss, and Brett Stageman.
 - [Ball State University Department of Immersive Learning](https://www.bsu.edu/about/administrativeoffices/immersive-learning)
 - [Ball State University Department of Computer Science](https://www.bsu.edu/academics/collegesanddepartments/computer-science)

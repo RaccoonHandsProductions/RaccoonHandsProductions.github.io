@@ -9,6 +9,10 @@ A game made by Raccoon Hands Productions, an immersive learning class at Ball St
 
 We are a multi-disciplinary team of 13 students and a professor given the mission to produce a game for [Minnetrista.](https://www.minnetrista.net/)
 
+
+![Team Photo](./team-photo.jpg)
+
+
 - Kyla Cross
 - Jordan Demske
 - Sailor Franklin

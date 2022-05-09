@@ -7,7 +7,7 @@ It also requires operating on a Wi-Fi network that allows devices
 to communicate with each other. This is normal on a home network, for example,
 but business or university networks may be configured to prevent this.
 
-# Installation Instructions
+## Installation Instructions
 
 1. Visit [the project releases page](https://github.com/RaccoonHandsProductions/CanningSeason/releases) from the tablets on which you wish to install the game.
 
@@ -17,7 +17,7 @@ but business or university networks may be configured to prevent this.
    You may receive a message about it being unsigned and potentially harmful;
    this is expected behavior, and the warning can be disregarded. 
 
-# Setting Up Network Multiplayer
+## Setting Up Network Multiplayer
 
 1. Select one tablet to the the &ldquo;Host&rdquo; and select &ldquo;Create a server.&rdquo;
 At the top of the tablet, it should now have an IP address at the top.

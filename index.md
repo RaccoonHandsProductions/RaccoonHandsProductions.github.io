@@ -1,7 +1,7 @@
 # About
 
 
-A game made by Raccoon Hands Productions, an immersive learning class at Ball State University. Our goal was to produce a game that focused on cooperative game play while building player interest in the collaborative food preservation process. *Canning Season* is designed to played on connected tablets. Each tablet will be a different "station" where players will perform different tasks to help preserve carrots in Ball Jars.
+A game made by Raccoon Hands Productions, an immersive learning class at Ball State University. Our goal was to produce a game that focused on cooperative game play while building player interest in the collaborative food preservation process. *Canning Season* is designed to played on connected tablets. Each tablet will be a different &ldquo;station&rdquo; where players will perform different tasks to help preserve carrots in Ball Jars.
 
 
 ## Raccoon Hands Productions
@@ -31,7 +31,13 @@ We are a multi-disciplinary team of 13 students and a professor given the missio
 
 ## Try for Yourself
 
-The game is available for [download here.](https://github.com/RaccoonHandsProductions/CanningSeason/releases) The [Source Code](https://github.com/RaccoonHandsProductions/CanningSeason) is available and licensed the [GPLv3.](https://www.gnu.org/licenses/gpl-3.0.en.html) The [installation instructions](https://drive.google.com/file/d/1KX9QUXjAznluACAqurpzLXD42ymEnNPL/view?usp=sharing) and [hardware recommendations](https://drive.google.com/file/d/1jPt7pjjHLwUr-95dkat_iHqiexOXpFjD/view?usp=sharing) may help when setting up the game on your devices.
+*Canning Heroes* is a game for two or more players played across at least three
+networked devices.
+The game is available to [download here](https://github.com/RaccoonHandsProductions/CanningSeason/releases).
+The [instructions](instructions.md) explain how to acquire and configure the game,
+along with hardware requirements.
+
+The [Source Code](https://github.com/RaccoonHandsProductions/CanningSeason) is available and licensed the [GPLv3.](https://www.gnu.org/licenses/gpl-3.0.en.html) 
 
 
 ## Special Thanks
